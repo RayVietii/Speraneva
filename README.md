@@ -2,7 +2,7 @@
 ![cover](./cover.png)
 _"In the depths of [ ... ]  There is [ ... ]"_  
 
-Speranēva is a Ontological Mythoscience worldbuilding project written and built by Ray Vietii.  
+Speranēva is an Ontological Mythoscience worldbuilding project written and built by Ray Vietii.  
 It includes cultures, races, languages, lore, myth, and speculative science.
 
 ## Contents
