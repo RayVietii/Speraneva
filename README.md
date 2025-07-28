@@ -16,7 +16,7 @@ It includes cultures, races, languages, lore, myth, and speculative science.
 ---
 ![worldmap](worldmap.png)
 
-###Meta Lore
+# Meta Lore
 
 >It's started with; "before time itself had meaning", followed by "She (Time), weaved the cosmos, and with her divine threads, She, knit together the very fabric of existence". Thus "existence", came first long before "space".
 >
