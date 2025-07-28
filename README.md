@@ -8,7 +8,7 @@ It includes cultures, races, languages, lore, myth, and speculative science.
 ## Contents
 - 📜 Lore Overview
 - 🧬 Species Dossiers
-- 🗣️ Prinila Langua (Conlang)
+- 🗣️ [Prinila Langua (Conlang)](https://github.com/RayVietii/Prinila-Langua)
 - ⚔️ Political Systems & History
 - 🌍 Geography & Maps
 - Power System
