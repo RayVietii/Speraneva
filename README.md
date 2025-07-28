@@ -15,7 +15,7 @@ It includes cultures, races, languages, lore, myth, and speculative science.
 
 # Structure Context
 
-There are layers of scopes, Speranēva as whole is the universe. Following layer is Ce'earth, the planet itself.
+There are layers of scopes, Speranēva as whole is a universe of which stories took place. Following layer is Ce'earth, the planet itself.
 ```
 Speranēva
   > Pantheon
