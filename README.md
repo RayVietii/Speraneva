@@ -13,6 +13,23 @@ It includes cultures, races, languages, lore, myth, and speculative science.
 - 🌍 Geography & Maps
 - Power System
 
+# Structure Context
+
+There are layers of scopes, Speranēva as whole is the universe. Following layer is Ce'earth, the planet itself.
+```
+Speranēva
+  > Pantheon
+  > Axiomatic and Divine forces
+  > Ce'earth
+    + Races and Creatures, Floras
+    + Landmarks and Regions
+    > Factions and Politic niches
+    > Clans, Houses, and Families
+      > Character-centric
+```
+
+This worldbuilding is ever expanding, there's no definitive directions, intended to explore human creativity, my creativity.
+
 ---
 ![worldmap](worldmap.png)
 
