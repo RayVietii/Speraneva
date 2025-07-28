@@ -1,4 +1,4 @@
-# Speranēva  
+# Speranēva [WIP]
 ![cover](./cover.png)
 _"In the depths of [ ... ]  There is [ ... ]"_  
 
