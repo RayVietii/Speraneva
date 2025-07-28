@@ -44,4 +44,5 @@ And "It is Fate who unfolded the space"
 Fate is a box, and within (the box), is where free-will operates. And Destiny is an ultimate end, of everything that existed will come to an end.
 
 It's not "how", it is a "consequence".
+
 ---
