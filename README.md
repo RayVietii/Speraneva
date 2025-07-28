@@ -1,5 +1,5 @@
 # Speranēva  
-_"In the depths of...  There is ..."_  
+_"In the depths of [...]  There is [...]"_  
 
 Speranēva is a Ontological Mythoscience worldbuilding project written and built by Ray Vietii.  
 It includes cultures, races, languages, lore, myth, and speculative science.
